@@ -1,2 +1,2 @@
 # CSS-FLAG-exercise
-![Laos flag](./Laos.PNG)
+![Laos flag](./LAOSFLAG.PNG)
